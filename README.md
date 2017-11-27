@@ -1,3 +1,6 @@
-# hello-world
+# hello-world - Licorne
 
-C'est moi
+Création d'une page HTML/ CSS
+
+## Auteur
+Mélick HERMAN
